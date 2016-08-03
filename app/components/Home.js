@@ -8,27 +8,10 @@ class Home extends React.Component {
       <div className="container">
         <Messages messages={this.props.messages}/>
         <div className="row">
-          <div className="col-sm">
-            <h3>Heading</h3>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor
-              mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna
-              mollis euismod. Donec sed odio dui.</p>
-            <a href="#" role="button">View details</a>
-          </div>
-          <div className="col-sm">
-            <h3>Heading</h3>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor
-              mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna
-              mollis euismod. Donec sed odio dui.</p>
-            <a href="#" role="button">View details</a>
-          </div>
-          <div className="col-sm">
-            <h3>Heading</h3>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor
-              mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna
-              mollis euismod. Donec sed odio dui.</p>
-            <a href="#" role="button">View details</a>
-          </div>
+          <h1> Motiv</h1>
+        </div>
+        <div className="row">
+          <h3> What's your Motiv?</h3>
         </div>
       </div>
     );
