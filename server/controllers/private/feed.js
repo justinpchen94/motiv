@@ -46,7 +46,7 @@ module.exports = (function() {
       {
         name: 'Justin',
         time: new Date(),
-        content: 'this is some string'
+        content: 'this is some string2'
       },
       {
         name: 'Sean',
@@ -56,83 +56,8 @@ module.exports = (function() {
       {
         name: 'Denny',
         time: new Date(),
-        content: 'hnnnnng'
-      },
-      {
-        name: 'Justin',
-        time: new Date(),
-        content: 'this is some string'
-      },
-      {
-        name: 'Sean',
-        time: new Date(),
-        content: 'oh herro'
-      },
-      {
-        name: 'Denny',
-        time: new Date(),
-        content: 'hnnnnng'
-      },
-      {
-        name: 'Justin',
-        time: new Date(),
-        content: 'this is some string'
-      },
-      {
-        name: 'Sean',
-        time: new Date(),
-        content: 'oh herro'
-      },
-      {
-        name: 'Denny',
-        time: new Date(),
-        content: 'hnnnnng'
-      },
-      {
-        name: 'Justin',
-        time: new Date(),
-        content: 'this is some string'
-      },
-      {
-        name: 'Sean',
-        time: new Date(),
-        content: 'oh herro'
-      },
-      {
-        name: 'Denny',
-        time: new Date(),
-        content: 'hnnnnng'
-      },
-      {
-        name: 'Justin',
-        time: new Date(),
-        content: 'this is some string'
-      },
-      {
-        name: 'Sean',
-        time: new Date(),
-        content: 'oh herro'
-      },
-      {
-        name: 'Denny',
-        time: new Date(),
-        content: 'hnnnnng'
-      },
-      {
-        name: 'Justin',
-        time: new Date(),
-        content: 'this is some string'
-      },
-      {
-        name: 'Sean',
-        time: new Date(),
-        content: 'oh herro'
-      },
-      {
-        name: 'Denny',
-        time: new Date(),
-        content: 'hnnnnng'
-      },
+        content: 'hnnnnng2345'
+      }
 
     ]
     res.json(resObj);
