@@ -29,7 +29,7 @@ class Feed extends React.Component {
     
     return (
       <div className="container">
-        <Infinite containerHeight={500} elementHeight={200}>
+        <Infinite containerHeight={500} elementHeight={100}>
             {displayFeedItems}
         </Infinite>
 
