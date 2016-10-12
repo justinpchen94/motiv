@@ -33,7 +33,7 @@ module.exports = (function() {
     var mailOptions = {
       from: req.body.name + ' ' + '<'+ req.body.email + '>',
       to: 'your@email.com',
-      subject: '✔ Contact Form | Mega Boilerplate',
+      subject: '✔ Contact Form | Motiv',
       text: req.body.message
     };
 
